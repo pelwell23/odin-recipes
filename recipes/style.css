@@ -2,3 +2,16 @@ img {
     height: 200px;
     width: 400px;
 }
+
+h1 {
+    color: lightcoral;
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.heading {
+    color: aqua;
+    text-align: center;
+}
+
