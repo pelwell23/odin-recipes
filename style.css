@@ -3,3 +3,12 @@ h1 {
     font-family:'Times New Roman', Times, sans-serif;
 }
 
+img {
+    height: 400px;
+    width: 800px;
+}
+
+body {
+    text-align: center;
+}
+
