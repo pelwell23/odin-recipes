@@ -1,5 +1,6 @@
-h1 {
+body {
     text-align: center;
+    list-style-position: inside;
     font-family:'Times New Roman', Times, sans-serif;
 }
 
@@ -8,7 +9,6 @@ img {
     width: 800px;
 }
 
-body {
-    text-align: center;
+* {
+    background-color: lightcyan;
 }
-
