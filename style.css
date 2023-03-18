@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    text-decoration: underline;
     list-style-position: inside;
     font-family:'Times New Roman', Times, sans-serif;
 }
